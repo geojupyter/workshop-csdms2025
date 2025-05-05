@@ -5,6 +5,9 @@ website:
   title: "GeoJupyter Workshop: CSDMS Annual Meeting 2025"
   navbar:
     left:
+      - text: "1 - Collaborating in JupyterHub"
+      - text: "2 - New geospatial tools"
+      - text: "3 - Sharing you work"
 
 format:
   html:
