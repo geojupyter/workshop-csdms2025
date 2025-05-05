@@ -1,5 +1,5 @@
 project:
-  type: website
+  type: "website"
 
 website:
   title: "GeoJupyter Workshop: CSDMS Annual Meeting 2025"
@@ -9,7 +9,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      - "cosmo"
+      - "brand"
+    css: "styles.css"
     toc: true
