@@ -3,11 +3,21 @@ project:
 
 website:
   title: "GeoJupyter Workshop: CSDMS 2025"
+  site-url: "https://geojupyter.github.io/workshop-csdms2025/"
+
+  repo-url: &repo-url "https://github.com/geojupyter/workshop-csdms2025"
+  repo-actions: ["edit", "issue"]
+
   navbar:
     left:
       - text: "1 - Collaborating in JupyterHub"
       - text: "2 - New geospatial tools"
       - text: "3 - Sharing your work"
+
+    right:
+      - icon: "github"
+        aria-label: "GitHub"
+        href: "https://github.com/geojupyter"
 
 format:
   html:

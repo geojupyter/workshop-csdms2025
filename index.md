@@ -2,6 +2,11 @@
 title: "GeoJupyter Workshop: CSDMS Annual Meeting 2025"
 ---
 
-This is a Quarto website.
+:hugs: Welcome to our workshop!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This workshop is open-source.
+This website contains everything you need to learn from or administer a similar
+workshop.
+
+If you find any mistakes or other valuable changes, please use the "Edit this page" link
+on any given page to submit changes via GitHub.
