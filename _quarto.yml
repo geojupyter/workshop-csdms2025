@@ -11,8 +11,11 @@ website:
   navbar:
     left:
       - text: "1 - Collaborating in JupyterHub"
+        href: "01-collaborating-in-jupyterhub.md"
       - text: "2 - New geospatial tools"
+        href: "02-new-geospatial-tools.md"
       - text: "3 - Sharing your work"
+        href: "03-sharing-your-work.md"
 
     right:
       - icon: "github"
