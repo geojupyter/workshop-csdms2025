@@ -21,9 +21,9 @@ jobs:
 
       - uses: "prefix-dev/setup-pixi@v0.8.1"
 
-      - run: |
-          export BASE_URL="/workshop-csdms2025"
-          pixi run render
+      - run: "pixi run render"
+        env:
+          BASE_URL: "/${{ github.event.repository.name }}"
 
       - name: "Upload site artifact"
         uses: "actions/upload-pages-artifact@v3"
