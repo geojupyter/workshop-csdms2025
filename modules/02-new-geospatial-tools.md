@@ -9,14 +9,6 @@ title: "Module 2: New Geospatial Tools"
 * Interact with your data while you work
 :::
 
-:::{hint} Exercises
-:class: dropdown
-
-* Interact with GeoJSON from previous exercise in JGIS
-* Apply symbology
-* ?
-:::
-
 
 ## Presentation
 
@@ -129,3 +121,22 @@ An example of exploring a GeoDataFrame with **one line of code**.
 
 
 ## 💪 Exercise
+
+### Step 1: Open the example `.jGIS` project (WIP)
+
+_TODO_
+
+
+### Step 2: Load the GeoJSON file you wrote in the previous module (WIP)
+
+_TODO_
+
+
+### Step 3: Apply some symbology to this data (WIP)
+
+_TODO_
+
+
+### Step 4: ??? (WIP)
+
+_TODO_
