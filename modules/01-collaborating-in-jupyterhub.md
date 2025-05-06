@@ -2,21 +2,13 @@
 title: "Module 1: Collaborating in JupyterHub"
 ---
 
-:::{div}
-:class: objectives
-
-Objectives:
-
+:::{note} Objectives
 * Jupyter is much more than Notebooks
 * Interact with geospatial data in JupyterLab
 * Interact with GitHub
 :::
 
-:::{div}
-:class: exercises
-
-Exercises:
-
+:::{hint} Exercises
 * Instantiate / clone a template repository
 * Log in to JupyterHub and connect with GitHub (scoped creds)
 * Open a Notebook
