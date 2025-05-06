@@ -6,16 +6,10 @@ version: 2
 build:
   os: "ubuntu-lts-latest"
 
-  build:
-    jobs:
-      create_environment:
-        - "asdf plugin add pixi"
-        - "asdf install pixi latest"
-        - "asdf global pixi latest"
-      install: false  # Pixi will install dependencies implicitly, skip this step
-      build:
-        html:
-          - "pixi run render"
-      post_build:
-        - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
-        - "mv _build/* $READTHEDOCS_OUTPUT/html/."
+  commands:
+    - "asdf plugin add pixi"
+    - "asdf install pixi latest"
+    - "asdf global pixi latest"
+    - "pixi run render"
+    - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
+    - "mv _build/* $READTHEDOCS_OUTPUT/html/."
