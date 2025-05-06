@@ -12,4 +12,4 @@ build:
     - "asdf global pixi latest"
     - "pixi run render"
     - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
-    - "mv _build/* $READTHEDOCS_OUTPUT/html/."
+    - "mv _build/html/* $READTHEDOCS_OUTPUT/html/."
