@@ -126,3 +126,6 @@ explore(my_geodataframe)
 
 An example of exploring a GeoDataFrame with **one line of code**.
 :::
+
+
+## 💪 Exercise

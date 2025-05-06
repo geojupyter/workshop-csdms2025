@@ -20,7 +20,7 @@ title: "Module 1: Collaborating in JupyterHub"
 </iframe>
 
 
-## Exercise
+## 💪 Exercise
 
 ### Step 0: Set up GitHub authentication in JupyterHub (WIP)
 
