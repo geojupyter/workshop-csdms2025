@@ -12,6 +12,9 @@ project:
 site:
   template: "book-theme"
   nav: []
+  actions:
+    - title: "View source"
+      url: "https://github.com/geojupyter/workshop-csdms2025"
   options:
     folders: true
     style: "style.css"
