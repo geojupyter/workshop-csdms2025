@@ -2,14 +2,18 @@
 title: "Module 2: New Geospatial Tools"
 ---
 
-::: objectives
+:::{div}
+:class: objectives
+
 Objectives:
 
 * Intro JupyterGIS & LeafMap & ?
 * Interact with your data while you work
 :::
 
-::: exercises
+:::{div}
+:class: exercises
+
 Exercises:
 
 * Interact with GeoJSON from previous exercise in JGIS

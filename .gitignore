@@ -3,5 +3,4 @@
 .pixi
 *.egg-info
 
-/.quarto/
-/_site/
+/_build/

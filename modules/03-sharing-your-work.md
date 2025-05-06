@@ -2,14 +2,18 @@
 title: "Module 3: Sharing Your Work"
 ---
 
-::: objectives
+:::{div}
+:class: objectives
+
 Objectives:
 
 * Intro MyST
 * Publish a website with interactive data visualizations
 :::
 
-::: exercises
+:::{div}
+:class: exercises
+
 Exercises:
 
 * Create a story based on previous modules

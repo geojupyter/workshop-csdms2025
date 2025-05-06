@@ -2,7 +2,9 @@
 title: "Module 1: Collaborating in JupyterHub"
 ---
 
-::: objectives
+:::{div}
+:class: objectives
+
 Objectives:
 
 * Jupyter is much more than Notebooks
@@ -10,7 +12,9 @@ Objectives:
 * Interact with GitHub
 :::
 
-::: exercises
+:::{div}
+:class: exercises
+
 Exercises:
 
 * Instantiate / clone a template repository
