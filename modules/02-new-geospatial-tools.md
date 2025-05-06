@@ -20,7 +20,9 @@ title: "Module 2: New Geospatial Tools"
 
 ## Presentation
 
-_TODO: Link_
+_TODO: Google Slides? Or Reveal.js?_
+
+_TODO: Link / embed slides_
 
 
 ## Introduction to [GeoJupyter](https://geojupyter.org/)
