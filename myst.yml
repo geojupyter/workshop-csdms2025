@@ -17,7 +17,7 @@ site:
       url: "https://github.com/geojupyter/workshop-csdms2025"
   options:
     folders: true
-    style: "style.css"
+    style: "assets/styles/style.css"
     # favicon: favicon.ico
     # logo: site_logo.png
     logo_text: "GeoJupyter Workshop - CSDMS 2025"
