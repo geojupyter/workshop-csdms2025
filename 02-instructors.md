@@ -1,14 +1,12 @@
 ---
-title: "Introduction"
+title: "Instructors"
 ---
 
-## Instructors
+## [Fernando Pérez](https://fernandoperez.org/)
 
-### [Fernando Pérez](https://fernandoperez.org/)
+## [Tasha Snow](https://tsnow03.github.io/)
 
-### [Tasha Snow](https://tsnow03.github.io/)
-
-### [Matt Fisher](https://mfisher87.github.io)
+## [Matt Fisher](https://mfisher87.github.io)
 
 👋 I am a Community Manager and Research Software Engineer at
 [Schmidt Center for Data Science and Environment](https://dse.berkeley.edu/) at
