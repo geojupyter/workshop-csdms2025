@@ -4,9 +4,9 @@ title: "Introduction"
 
 ## Instructors
 
-### Fernando Pérez
+### [Fernando Pérez](https://fernandoperez.org/)
 
-### Tasha Snow
+### [Tasha Snow](https://tsnow03.github.io/)
 
 ### [Matt Fisher](https://mfisher87.github.io)
 
