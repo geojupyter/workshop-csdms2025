@@ -14,28 +14,31 @@ Please [sign up for a GitHub account](https://github.com/signup) if you haven't 
 We've sent out a
 [survey](https://docs.google.com/forms/d/e/1FAIpQLSc7qwl_FlkkimGCRMVMid0AjnXcQV9ref2t97ArEsEhxEC4jw/viewform?usp=dialog)
 by e-mail to gather this information.
-If for any reason you didn't receive it, please fill it out now by following the link.
+**If for any reason you didn't receive it, please fill it out now by following the
+link.**
 
 :::{warning}
-If we don't receive your GitHub username, you won't be able to access the workshop
-computing infrastructure!
+If we don't receive your GitHub username, you won't be able to grant you access the
+workshop computing infrastructure!
 :::
 
 
 ### Accept the invitation to join the CryoCloud team
 
-Before you can [log in to CryoCloud](https://hub.cryointhecloud.com/), you must accept
-an invitation to join the
-[correct GitHub team](https://github.com/orgs/CryoInTheCloud/teams/csdms-2025-workshop).
-You should have already received that invitation.
+You should have already received an invitation to join the
+[GitHub team](https://github.com/orgs/CryoInTheCloud/teams/csdms-2025-workshop)
+that will give you access to log in to CryoCloud.
+**You must accept that invitation!**
 
-[Click here to accept your invite](https://github.com/orgs/CryoInTheCloud/invitation).
-
-If you don't see a simple page with a green button to accept, it's possible you either
-already accepted, or have not received an invite yet.
-
-If you can't log in to CryoCloud, and don't see the page to accept your invite, let the
-workshop organizers know!
+* [Click here to accept your invitation](https://github.com/orgs/CryoInTheCloud/invitation).
+  You should see a simple page with a big green button to accept.
+  If you don't, it's possible you already accepted your invitation, possibly by e-mail.
+* [Log in to CryoCloud](https://hub.cryointhecloud.com/).
+  If you see a "403 Forbidden" error, you don't have the correct access.
+  Let a workshop organizer know, and give them your GitHub username, and we'll fix it
+  right up!
+  * You will see a dialog to "Authorize nasa-cryo-prod" on your first login.
+    Click the green "Authorize 2i2c-org" button.
 
 
 ## A computer with a web browser installed
