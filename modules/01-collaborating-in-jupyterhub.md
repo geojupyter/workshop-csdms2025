@@ -68,7 +68,7 @@ If you need to refresh your access, please re-do the final step in the list abov
 1. Double-click the GeoJSON file to view it with the JupyterLab viewer.
 
 
-### Step 2: Open our example Notebook and create some new data (WIP)
+### Step 3: Open our example Notebook and create some new data (WIP)
 
 This Notebook is pre-populated with some code.
 
@@ -77,7 +77,7 @@ This Notebook is pre-populated with some code.
 1. Add another new cell which saves the GeoDataFrame with a new filename.
 
 
-### Step 3: Push to GitHub (WIP)
+### Step 4: Push to GitHub (WIP)
 
 1. `git add .`
 2. `git commit --message="Add new data to GeoJSON"`
