@@ -40,9 +40,9 @@ title: "Module 1: Collaborating in JupyterHub"
    We'll be working here from now on! **Run the command below, replacing `MY-USERNAME`
    with your GitHub account username**.
 
-  ```bash
-  git clone https://github.com/MY-USERNAME/workshop-csdms2025-exercises
-  ```
+    ```bash
+    git clone https://github.com/MY-USERNAME/workshop-csdms2025-exercises
+    ```
 
 
 ### Step 1: Set up GitHub authentication in JupyterHub (WIP)
