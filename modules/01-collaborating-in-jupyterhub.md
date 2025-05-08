@@ -27,10 +27,10 @@ title: "Module 1: Collaborating in JupyterHub"
 1. Create a new repository in GitHub from our
   [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template).
 
-  :::{figure} ../assets/images/github-use-template.png
-  Click the green "Use template" button in the upper-right, then select "create a new
-  repository".
-  :::
+    :::{figure} ../assets/images/github-use-template.png
+    Click the green "Use template" button in the upper-right, then select "create a new
+    repository".
+    :::
 
 1. Leave all the settings as default: your username should be the "owner", and the repo
    should be public. Set the "Repository name" to `workshop-csdms2025-exercises` -- this
