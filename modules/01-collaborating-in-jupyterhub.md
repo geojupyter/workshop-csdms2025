@@ -22,21 +22,50 @@ title: "Module 1: Collaborating in JupyterHub"
 
 ## 💪 Exercise
 
-### Step 0: Set up GitHub authentication in JupyterHub (WIP)
-
-_TODO_
-
-
-### Step 1: Create and clone a new repository (WIP)
+### Step 0: Create and clone a new repository for this workshop's exercises
 
 1. Create a new repository in GitHub from our
-[workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template).
-1. Clone the repository to your JupyterHub instance. We'll be working here from now on!
+  [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template).
+
+  :::{figure} ../assets/images/github-use-template.png
+  Click the green "Use template" button in the upper-right, then select "create a new
+  repository".
+  :::
+
+1. Leave all the settings as default: your username should be the "owner", and the repo
+   should be public. Set the "Repository name" to `workshop-csdms2025-exercises` -- this
+   will make it easier for us to find it!
+
+1. In JupyterHub, clone the new repository you just created from the template.
+   We'll be working here from now on! **Run the command below, replacing `MY-USERNAME`
+   with your GitHub account username**.
+
+  ```bash
+  git clone https://github.com/MY-USERNAME/workshop-csdms2025-exercises
+  ```
 
 
-### Step 2: Check out the example data (WIP)
+### Step 1: Set up GitHub authentication in JupyterHub (WIP)
 
-Double-click the GeoJSON file to view it with the JupyterLab viewer.
+In order to push changes from the JupyterHub, you need credentials.
+Since the JupyterHub is a shared cloud service, saving credentials there can be
+dangerous.
+Therefore, we use a special tool,
+[`gh-scoped-creds`](https://github.com/jupyterhub/gh-scoped-creds),
+to limit this risk.
+
+1. Grant access to the app (_TODO: Details_)
+1. Configure your exercises repository to work with `gh-scoped-creds` (_TODO: Details_)
+
+This configuration is valid for 8 hours.
+If you need to refresh your access, please re-do the final step in the list above.
+
+
+### Step 2: Explore the example data (WIP)
+
+1. Navigate to the newly cloned repository in the JupyterLab file browser.
+1. Enter the `exercises/module-1` directory.
+1. Double-click the GeoJSON file to view it with the JupyterLab viewer.
 
 
 ### Step 2: Open our example Notebook and create some new data (WIP)
@@ -49,3 +78,5 @@ This Notebook is pre-populated with some code.
 
 
 ### Step 3: Push to GitHub (WIP)
+
+_TODO_
