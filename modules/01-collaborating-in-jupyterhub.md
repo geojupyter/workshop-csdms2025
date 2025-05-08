@@ -83,5 +83,5 @@ This Notebook is pre-populated with some code.
 2. `git commit --message="Add new data to GeoJSON"`
    This step may fail.
    If it does, you need to tell Git your name and e-mail, then try again.
-   Git will print out the commands you need to execute to fix this problem. 
+   Git will print out the commands you need to execute to fix this problem.
 3. `git push --set-upstream origin main`
