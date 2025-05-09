@@ -64,6 +64,9 @@ with DOI on Zenodo
 
 In Zenodo; have to manually add the PDF. They should really fix this! XD
 
+Should we break module 3 in to two pieces?
+One for local workflow, another for sharing in public?
+
 
 ## Next two hours
 
