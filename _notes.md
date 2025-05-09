@@ -9,7 +9,10 @@ Squeeze into first 5 minutes of module 1
 
 ### Table-setting
 
+#### Hub provisioning
+
 Log in to Hub **during** the introduction / presentation; sometimes can be a bit slow.
+
 
 #### :check: Comms
 
