@@ -21,3 +21,8 @@ title: "Resources"
 * [JupyterGIS](https://jupytergis.readthedocs.io/)
     * [Try it now, without a server!](https://jupytergis.readthedocs.io/en/latest/lite/lab/)
 * [MyST](https://mystmd.org/guide)
+
+
+## Other learning resources
+
+* [ARTMIP GitHub + MyST Workflow](https://docs.google.com/document/d/1KH5A-zSyzgDj-gwmT_tAjvCWhyRGUnvzPtqMk1OLrhM/edit?tab=t.0)
