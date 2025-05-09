@@ -153,6 +153,8 @@ The Notebook contains everything you need to complete step 2 of this exercise.
 1. Can you think of other datasets that might be interesting to visualize together?
    Check out our server browser (the 📖 icon in the toolbar at the top of the map)
    and add some other datasets to your shared project.
+    * Can you change the opacity of a layer?
+      (NOTE: This option is in the "objects properties" pane, not in the symbology menu)
 1. How does JupyterGIS feel?
    What feels like friction?
    What feels good?
