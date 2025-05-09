@@ -29,4 +29,8 @@ title: "Module 3: Sharing Your Work"
 
 ## 💪 Exercise
 
-_TODO_
+### Step 1: Set up GitHub Pages
+
+1. Open your repository on GitHub.
+1. Click "⚙️ Settings" towards the top of the page.
+    ![](../assets/images/github-pages-settings.png)
