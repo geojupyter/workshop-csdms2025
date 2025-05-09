@@ -144,7 +144,7 @@ The Notebook contains everything you need to complete step 2 of this exercise.
    * Click the "share" icon in the top-right.
    * Copy the URL.
    * Share that URL with the group.
-       * Open the [workshop server browser](https://www.figma.com/board/JmA9uPUoWNrd4clVVZ1oxT/CSDMS-2025-GeoJupyter-Workshop---Server-Browser?node-id=0-1&t=6d5vtTt29NDI3aSY-1)
+       * Open the [workshop server browser](https://www.figma.com/board/JmA9uPUoWNrd4clVVZ1oxT/CSDMS-2025-GeoJupyter-Workshop---Server-Browser?node-id=0-1&t=6d5vtTt29NDI3aSY-1).
        * Follow the instructions on the board.
          (there are big arrows pointing at them!)
 1. What observations can you make about this data?
@@ -156,6 +156,7 @@ The Notebook contains everything you need to complete step 2 of this exercise.
 1. How does JupyterGIS feel?
    What feels like friction?
    What feels good?
+   What is needed to make it better?
    We'd be SO thrilled if you'd
    [open an experience report](https://github.com/geojupyter/jupytergis/issues/new/choose)
    to share your thoughts.
