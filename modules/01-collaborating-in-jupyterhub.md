@@ -74,14 +74,29 @@ This Notebook is pre-populated with some code.
 
 1. Run all the cells (_TODO: Details_).
 1. Add a new cell which adds more data into the GeoDataFrame.
+   Start with the address of a location that is meaningful to you:
+   Your favorite coffee shop?
+   The shelter where you adopted your pet?
+   The town where you grew up?
 1. Add another new cell which saves the GeoDataFrame with a new filename.
 
 
-### Step 4: Push to GitHub (WIP)
+### Step 4: Collaborate!
+
+1. Break in to groups of 2-3. (_TODO: How?_)
+  1. Introduce yourselves!
+  1. Write down a couple of norms/rules for your group.
+     A good place to start might be "What concerns do you have about collaboration?"
+1. Share a link to your JupyterLab instance with your group. (_TODO: How?_ Shared tool?
+   Miro, FigJam, something else?)
+1. Visualize and explore your data together.
+
+
+### Step 5: Push to GitHub (WIP)
 
 1. `git add .`
-2. `git commit --message="Add new data to GeoJSON"`
+1. `git commit --message="Add new data to GeoJSON"`
    This step may fail.
    If it does, you need to tell Git your name and e-mail, then try again.
    Git will print out the commands you need to execute to fix this problem.
-3. `git push --set-upstream origin main`
+1. `git push --set-upstream origin main`
