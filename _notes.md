@@ -1,10 +1,13 @@
 # Fernando feedback
 
-## Introductions:
+## Module 1
 
-Squeeze into first 5 minutes
+### Introductions
 
-### Table-setting in the first module
+Squeeze into first 5 minutes of module 1
+
+
+### Table-setting
 
 Log in to Hub **during** the introduction / presentation; sometimes can be a bit slow.
 If it gets stuck, summon Matt/Tasha for support.
@@ -12,14 +15,14 @@ When it's loaded, put up a green sticky note.
 Raise hand to interrupt speaker for a question!
 
 
-## :check: Remove Module 1 step 4: Collaborate!
+## :check: Remove step 4: Collaborate!
 
 Too much! Not enough time!
 
 
-## Module 2 collaboration
+## Module 2
 
-Load everyone's data together!
+### Collaboration in JGIS
 
 In pairs (one group of 3?)
 
@@ -54,6 +57,7 @@ https://github.com/fperez/agu-nnow-evaluation -- demo the complete example. Arch
 with DOI on Zenodo
 
 In Zenodo; have to manually add the PDF. They should really fix this! XD
+
 
 ## Next two hours
 
