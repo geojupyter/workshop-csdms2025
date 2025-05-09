@@ -10,9 +10,12 @@ Squeeze into first 5 minutes of module 1
 ### Table-setting
 
 Log in to Hub **during** the introduction / presentation; sometimes can be a bit slow.
-If it gets stuck, summon Matt/Tasha for support.
-When it's loaded, put up a green sticky note.
-Raise hand to interrupt speaker for a question!
+
+#### :check: Comms
+
+If it gets stuck, summon Matt/Tasha for support with a red sticky.
+When asked, please use a green sticky note to indicate a step is complete.
+Raise your hand to interrupt speaker for a question!
 
 
 ## :check: Remove step 4: Collaborate!
