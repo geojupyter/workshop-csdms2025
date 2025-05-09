@@ -25,7 +25,7 @@ workshop computing infrastructure!
 
 ### Accept the invitation to join the CryoCloud team
 
-You should have already received an invitation to join the
+Once we have your github ID, we will send you an invitation to join the
 [GitHub team](https://github.com/orgs/CryoInTheCloud/teams/csdms-2025-workshop)
 that will give you access to log in to CryoCloud.
 **You must accept that invitation!**
