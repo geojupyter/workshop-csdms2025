@@ -81,18 +81,7 @@ This Notebook is pre-populated with some code.
 1. Add another new cell which saves the GeoDataFrame with a new filename.
 
 
-### Step 4: Collaborate!
-
-1. Break in to groups of 2-3. (_TODO: How?_)
-  1. Introduce yourselves!
-  1. Write down a couple of norms/rules for your group.
-     A good place to start might be "What concerns do you have about collaboration?"
-1. Share a link to your JupyterLab instance with your group. (_TODO: How?_ Shared tool?
-   Miro, FigJam, something else?)
-1. Visualize and explore your data together.
-
-
-### Step 5: Push to GitHub (WIP)
+### Step 4: Push to GitHub (WIP)
 
 1. `git add .`
 1. `git commit --message="Add new data to GeoJSON"`
