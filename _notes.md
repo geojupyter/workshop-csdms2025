@@ -47,6 +47,13 @@ Switch to `myst init --gh-pages`
 Explain: This was created with two commands `myst init --site`; `myst init --gh-pages`.
 This is easy to do, but we can't risk doing it live with 55 people today ;)
 
+References? Bibliography?
+
+Show something more like a science paper --
+https://github.com/fperez/agu-nnow-evaluation -- demo the complete example. Archived
+with DOI on Zenodo
+
+In Zenodo; have to manually add the PDF. They should really fix this! XD
 
 ## Next two hours
 
