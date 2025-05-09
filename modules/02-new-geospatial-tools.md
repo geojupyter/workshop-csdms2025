@@ -128,27 +128,12 @@ An example of exploring a GeoDataFrame with **one line of code**.
 1. Explore! Run the cells, follow the prompts.
 
 
-### Step 2: Load the GeoJSON file you wrote in the previous module (WIP)
+### Step 2: Follow the instructions in the Notebook
 
-```python
-doc.add_geojson_layer("my-geojson.json", name="My GeoJSON")
-```
+The Notebook contains everything you need to complete step 2 of this exercise.
 
 
-
-### Step 3: Apply some symbology to this data (WIP)
-
-1. Right-click the layer in the layers panel on the left. If that's not already open,
-   click the globe icon on the far left.
-1. Select "Edit Symbology".
-  1. Select a field ("Value") to symbologize on.
-  1. Select a method: either "color" or "radius".
-  1. Select a color ramp.
-  1. Click "Classify".
-  1. Click OK.
-
-
-### Step 4: Collaborate! (WIP)
+### Step 3: Collaborate! (WIP - Add to notebook)
 
 1. In your small groups, join each-others' servers like you did in Module 1.
 1. What observations can you make about this data?
@@ -157,8 +142,8 @@ doc.add_geojson_layer("my-geojson.json", name="My GeoJSON")
 1. Can you think of other datasets that might be interesting to visualize together?
    Operations you might want to perform on the data in JupyterLab?
 1. How does this feel?
-   What feels good?
    What feels like friction?
+   What feels good?
    We'd be SO thrilled if you'd
    [open an experience report](https://github.com/geojupyter/jupytergis/issues/new/choose)
    to share your thoughts.
