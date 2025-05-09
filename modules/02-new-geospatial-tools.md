@@ -74,7 +74,7 @@ It is a **collaborative** GIS tool **built in to JupyterLab**.
 You may encounter rough edges or bugs.
 
 ❤️ We would be thrilled to hear about your experience!
-Please let us know about it by opening a new issue on our GitHub repository.
+Please let us know about it by [opening a new issue on our GitHub repository](https://github.com/geojupyter/jupytergis/issues/new/choose).
 :::
 
 It features its own project file format, `.jGIS`, but also has limited support for QGIS
