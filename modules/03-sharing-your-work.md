@@ -34,3 +34,8 @@ title: "Module 3: Sharing Your Work"
 1. Open your repository on GitHub.
 1. Click "⚙️ Settings" towards the top of the page.
     ![](../assets/images/github-pages-settings.png)
+
+All of the other scaffolding you need is already included in this repo in the
+`.github/workflows` directory.
+When you build your own MyST website, you can reproduce this with `myst init --site` and
+`myst init --gh-pages`.
