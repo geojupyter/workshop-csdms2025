@@ -72,6 +72,3 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 ### Step 4: Edit your notebook to display some data (WIP)
 
 _TODO_
-
-
-
