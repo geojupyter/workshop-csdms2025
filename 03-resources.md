@@ -20,6 +20,9 @@ title: "Resources"
 ## Other learning resources
 
 * [ARTMIP GitHub + MyST Workflow](https://docs.google.com/document/d/1KH5A-zSyzgDj-gwmT_tAjvCWhyRGUnvzPtqMk1OLrhM/edit?tab=t.0)
+* [Qiusheng Wu's YouTube channel](https://www.youtube.com/@giswqs)
+* [Open source guides](https://opensource.guide/)
+* [Openscapes: Better science for future us](https://openscapes.github.io/series/core-lessons/)
 
 
 ## CSDMS 2025
