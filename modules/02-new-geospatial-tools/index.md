@@ -5,8 +5,9 @@ title: "📚 Materials"
 :::{note} Objectives
 :class: dropdown
 
-* Intro JupyterGIS & LeafMap & ?
-* Interact with your data while you work
+* Introduce the GeoJupyter community.
+* Introduce LeafMap & JupyterGIS.
+* Explore new capabilities of JupyterGIS.
 :::
 
 

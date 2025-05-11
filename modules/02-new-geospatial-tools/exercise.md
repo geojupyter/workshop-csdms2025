@@ -5,10 +5,10 @@ title: "💪 Exercise"
 ## Step 1: Open the example Jupyter Notebook for Module 2
 
 1. In your repository, open `examples/module-2/example-2.ipynb`.
-1. Explore! Run the cells, follow the prompts.
+1. Explore! **Read and run the cells one-by-one**.
 
 
-## Step 2: Follow the instructions in the Notebook
+## Step 2: Complete the challenge in the notebook
 
 The Notebook contains everything you need to complete step 2 of this exercise.
 
