@@ -1,28 +1,8 @@
 ---
-title: "Module 1: Collaborating in JupyterHub"
+title: "💪 Exercise"
 ---
 
-:::{note} Objectives
-:class: dropdown
-
-* Jupyter is much more than Notebooks
-* Interact with geospatial data in JupyterLab
-* Save our work to GitHub
-:::
-
-
-## Presentation
-
-<iframe
-  src="https://docs.google.com/presentation/d/e/2PACX-1vSX1BAt5-Dzd1VtXttMqSFRI-HhhCI3lQx8-tfmHQvsXabBrnDxsYYBMLNQgMhYZfTiFLV0vuxTnd3W/pubembed?start=false&loop=false&delayms=60000"
-  frameborder="0" width="960" height="569" allowfullscreen="true"
-  mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
-
-
-## 💪 Exercise
-
-### Step 0: Log in to the JupyterHub
+## Step 0: Log in to the JupyterHub
 
 1. Visit <https://hub.cryointhecloud.com>.
    You may want to bookmark this page!
@@ -37,12 +17,12 @@ title: "Module 1: Collaborating in JupyterHub"
       take a look!
 
 
-### Step 1: Create and clone a new repository for this workshop's exercises
+## Step 1: Create and clone a new repository for this workshop's exercises
 
 1. Create a new repository in GitHub from our
   [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template).
 
-    :::{figure} ../assets/images/github-use-template.png
+    :::{figure} ../../assets/images/github-use-template.png
     Click the green "Use template" button in the upper-right, then select "create a new
     repository".
     :::
@@ -60,7 +40,7 @@ title: "Module 1: Collaborating in JupyterHub"
     ```
 
 
-### Step 2: Explore the example data
+## Step 2: Explore the example data
 
 1. Navigate to the newly cloned repository in the JupyterLab file browser on the left
    panel.
@@ -69,7 +49,7 @@ title: "Module 1: Collaborating in JupyterHub"
 1. Double-click the GeoJSON file `seec.json` to view it with the JupyterLab viewer.
 
 
-### Step 3: Open our example Notebook and create some new data (WIP)
+## Step 3: Open our example Notebook and create some new data (WIP)
 
 1. Open `example-1.ipynb` by double-clicking it in the file browser in the left panel.
 1. This notebook is pre-populated with some code.
@@ -83,7 +63,7 @@ title: "Module 1: Collaborating in JupyterHub"
 1. Add another new cell which saves the GeoDataFrame with a new filename.
 
 
-### Step 4: Set up GitHub authentication in JupyterHub (WIP)
+## Step 4: Set up GitHub authentication in JupyterHub (WIP)
 
 In order to push changes from the JupyterHub, you need credentials.
 Since the JupyterHub is a shared cloud service, saving credentials there can be
@@ -99,7 +79,7 @@ This configuration is valid for 8 hours.
 If you need to refresh your access, please re-do the final step in the list above.
 
 
-### Step 5: Push to GitHub (WIP)
+## Step 5: Push to GitHub (WIP)
 
 1. `git add .`
 1. `git commit --message="Add new data to GeoJSON"`

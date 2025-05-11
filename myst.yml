@@ -9,6 +9,20 @@ project:
   exclude:
     - "_*"
     - "README.md"
+  toc:
+    - file: "index.md"
+    - pattern: "0*.md"
+    - title: "Modules"
+      children:
+        - title: "Module 1: Collaborating in JupyterHub"
+          children:
+            - pattern: "modules/01*/*.md"
+        - title: "Module 2: New Geospatial tools"
+          children:
+            - pattern: "modules/02*/*.md"
+        - title: "Module 3: Sharing your work"
+          children:
+            - pattern: "modules/03*/*.md"
 
 site:
   template: "book-theme"
