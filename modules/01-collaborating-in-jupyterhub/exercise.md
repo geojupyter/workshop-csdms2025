@@ -4,7 +4,7 @@ title: "💪 Exercise"
 
 ## Step 0: Log in to the JupyterHub
 
-1. Visit <https://hub.cryointhecloud.com>.
+1. **Visit <https://hub.cryointhecloud.com>**.
    You may want to bookmark this page!
 1. **Select the last option, "Bring your own image"**.
     * Copy/paste `ghcr.io/geojupyter/geojupyter:latest` into the "custom image" field.
@@ -19,8 +19,8 @@ title: "💪 Exercise"
 
 ## Step 1: Create and clone a new repository for this workshop's exercises
 
-1. Create a new repository in GitHub from our
-  [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template).
+1. **Create a new repository in GitHub from our
+  [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template)**.
 
     :::{figure} ../../assets/images/github-use-template.png
     Click the green "Use template" button in the upper-right, then select "create a new
@@ -45,12 +45,12 @@ title: "💪 Exercise"
 
 ## Step 2: Explore some example data
 
-1. Navigate to the newly cloned repository in the JupyterLab file browser on the left
-   panel.
-   If the left panel isn't open, click the topmost icon in the far left column.
-1. Navigate to the `exercises/module-1` directory.
-1. Double-click the GeoJSON file `seec.json` to view it with the JupyterLab viewer.
-1. Right-click the same GeoJSON file `seec.json`, and select "JSON" to view the raw
+1. **Navigate to the newly cloned repository in the JupyterLab file browser** on the
+   left panel.
+    * If the left panel isn't open, click the topmost icon in the far left column.
+1. **Navigate to the `exercises/module-1` directory**.
+1. **Double-click the GeoJSON file `seec.json`** to view it with the JupyterLab viewer.
+1. **Right-click the same GeoJSON file `seec.json`, and select "JSON"** to view the raw
    contents of the file in a structured way.
 
 JupyterLab is about much more than Notebooks!
@@ -62,7 +62,7 @@ We'll explore some of the latest examples of this progress soon.
 
 ## Step 3: Open our example Notebook
 
-1. Open `example-1.ipynb` by double-clicking it in the file browser in the left panel.
+1. **Open `example-1.ipynb`** by double-clicking it in the file browser in the left panel.
 1. This notebook is pre-populated with some code.
    **Run most of the cells** by pressing `SHIFT+ENTER` repeatedly until you reach the
    challenge cells at the end.
@@ -70,7 +70,7 @@ We'll explore some of the latest examples of this progress soon.
 
 ## Step 4: Create some new data
 
-1. Fill in the final cells of the Notebook to add more data to the GeoDataFrame.
+1. **Fill in the final cells of the Notebook to add more data to the GeoDataFrame.**
    Start with a location that is meaningful to you:
    Your favorite coffee shop?
    The shelter where you adopted your pet?
@@ -89,14 +89,14 @@ Therefore, we use a special tool,
 [`gh-scoped-creds`](https://github.com/jupyterhub/gh-scoped-creds),
 to limit this risk.
 
-1. In the terminal, run the command:
+1. **In the terminal, run the command**:
 
     ```bash
     gh-scoped-creds
     ```
 
 1. This will output a URL and an authorization code.
-   Visit the URL and input the code.
+   **Visit the URL and input the code**.
 1. This will output another URL.
     * Visit that URL.
     * Click the "Configure" button.
@@ -110,9 +110,20 @@ If you need to refresh your access later, please re-do these steps.
 
 ### Step 5b: Push!
 
-1. `git add .`
-1. `git commit --message="Add new data to GeoJSON"`
-   This step may fail.
-   If it does, you need to tell Git your name and e-mail, then try again.
-   Git will print out the commands you need to execute to fix this problem.
-1. `git push --set-upstream origin main`
+1. **Run the following commands in the terminal**:
+
+    ```bash
+    git add .
+    git commit --message="Add new data to GeoJSON"`
+    ```
+
+    :::{warning} This step will probably fail!
+    If it does, you need to tell Git your name and e-mail, then try again.
+    **Git will print out the commands you need to execute to fix this problem**.
+    :::
+
+1. **Run the following command in the terminal**:
+
+    ```bash
+    git push --set-upstream origin main
+    ```
