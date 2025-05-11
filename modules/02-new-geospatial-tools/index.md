@@ -63,7 +63,6 @@ Ask questions or share ideas!
 Tell us where you experience friction, frustration, joy, and/or payoff!
 
 
-
 ## Introduction to [JupyterGIS](https://jupytergis.readthedocs.io/en/latest/)
 
 [JupyterGIS](https://jupytergis.readthedocs.io/en/latest/) is the GeoJupyter community's flagship project.
