@@ -3,8 +3,6 @@ title: "📚 Materials"
 ---
 
 :::{note} Objectives
-:class: dropdown
-
 * Intro MyST
 * Publish a website with interactive data visualizations
 :::
@@ -17,3 +15,5 @@ title: "📚 Materials"
   frameborder="0" width="960" height="569" allowfullscreen="true"
   mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
+
+[Direct link](https://docs.google.com/presentation/d/13XvGQz8ZF860y4V8daJE3Tb7uA6-5U-GsOfDJU_Ikkw/edit?usp=sharing)

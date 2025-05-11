@@ -3,8 +3,6 @@ title: "📚 Materials"
 ---
 
 :::{note} Objectives
-:class: dropdown
-
 * Introduce the GeoJupyter community.
 * Introduce LeafMap & JupyterGIS.
 * Explore new capabilities of JupyterGIS.
@@ -13,9 +11,13 @@ title: "📚 Materials"
 
 ## Presentation
 
-_TODO: Google Slides? Or Reveal.js?_
+<iframe
+  src="https://docs.google.com/presentation/d/e/2PACX-1vRb5KS2we1ql4K1gzLXOdzzfEzD9LmYdSZFQNg5hExbTYWapGYoDkHmcyyTlZqglSdBXBeMT-hmf7zf/pubembed?start=false&loop=false&delayms=60000"
+  frameborder="0" width="960" height="569" allowfullscreen="true"
+  mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
 
-_TODO: Link / embed slides_
+[Direct link](https://docs.google.com/presentation/d/16PppU0B-D-_HmcdLbgsjHX_r7FhmM3Y9B-14uGrj3e4/edit?usp=sharing)
 
 
 ## Introduction to [GeoJupyter](https://geojupyter.org/)
