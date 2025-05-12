@@ -2,7 +2,9 @@
 title: "💪 Exercise"
 ---
 
-## Step 0: Log in to the JupyterHub
+## Step 0: Setup
+
+### Step 0a: Log in to JupyterHub
 
 1. **Visit <https://hub.cryointhecloud.com>**.
    You may want to bookmark this page!
@@ -17,7 +19,7 @@ title: "💪 Exercise"
       take a look!
 
 
-## Step 1: Create and clone a new repository for this workshop's exercises
+### Step 0b: Create and clone a new repository for this workshop's exercises
 
 1. **Create a new repository in GitHub from our
   [workshop template repository](https://github.com/geojupyter/workshop-csdms2025-template)**.
@@ -43,12 +45,29 @@ title: "💪 Exercise"
     ```
 
 
-## Step 2: Explore some example data
+### Step 0c: Set up GitHub authentication
 
-1. **Navigate to the newly cloned repository in the JupyterLab file browser** on the
+In order to push changes from the JupyterHub to GitHub to save our work, you need
+credentials.
+Since the JupyterHub is a shared cloud service, saving credentials there can be
+dangerous.
+Therefore, we use a special tool,
+[`gh-scoped-creds`](https://github.com/jupyterhub/gh-scoped-creds),
+to limit this risk.
+
+1. **Navigate to the newly cloned repository** in the JupyterLab file browser on the
    left panel.
     * If the left panel isn't open, click the topmost icon in the far left column.
-1. **Navigate to the `exercises/module-1` directory**.
+1. In the JupyterLab file browser, **open `00-START-HERE.ipynb`**.
+1. Follow the instructions in the Notebook.
+
+This configuration is valid for 8 hours.
+If you need to refresh your access later, please re-do these steps.
+
+
+## Step 2: Explore some example data
+
+1. **Navigate to the `exercises/module-1` directory** in the JupyterLab file browser.
 1. **Double-click the GeoJSON file `seec.geojson`** to view it with the JupyterLab viewer.
 1. **Right-click the same GeoJSON file `seec.geojson`, and select "JSON"** to view the raw
    contents of the file in a structured way.
@@ -74,36 +93,6 @@ We'll explore some of the latest examples of this progress soon.
 
 
 ## Step 4: Push our work to GitHub
-
-### Step 4a: Set up authentication
-
-In order to push changes from the JupyterHub, you need credentials.
-Since the JupyterHub is a shared cloud service, saving credentials there can be
-dangerous.
-Therefore, we use a special tool,
-[`gh-scoped-creds`](https://github.com/jupyterhub/gh-scoped-creds),
-to limit this risk.
-
-1. **In the terminal, run the command**:
-
-    ```bash
-    gh-scoped-creds
-    ```
-
-1. This will output a URL and an authorization code.
-   **Visit the URL and input the code**.
-1. This will output another URL.
-    * Visit that URL.
-    * Click the "Configure" button.
-    * Select your username from the list, and continue.
-    * Select "Only select repositories", and then select `workshop-csdms2025-exercises`.
-    * Click "Install".
-
-This configuration is valid for 8 hours.
-If you need to refresh your access later, please re-do these steps.
-
-
-### Step 4b: Push!
 
 1. **Run the following commands in the terminal**:
 
