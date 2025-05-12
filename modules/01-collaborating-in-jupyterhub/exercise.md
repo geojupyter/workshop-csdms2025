@@ -93,7 +93,7 @@ We'll explore some of the latest examples of this progress soon.
 1. Run the final cells.
 
 
-## Step 4: Push our work to GitHub
+## Step 4: Save our work to GitHub
 
 1. **Run the following commands in the terminal**:
 
@@ -114,3 +114,6 @@ We'll explore some of the latest examples of this progress soon.
     ```bash
     git push --set-upstream origin main
     ```
+
+You can now visit your repository to verify that it's been updated.
+Looking at the time labels is the fastest way to confirm this.
