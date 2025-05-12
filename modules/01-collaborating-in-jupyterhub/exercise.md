@@ -58,9 +58,9 @@ to limit this risk.
 1. **Navigate to the newly cloned repository** in the JupyterLab file browser on the
    left panel.
     * If the left panel isn't open, click the topmost icon in the far left column.
-1. Enter the directory `examples/module-1`.
+1. **Enter the directory `examples/module-1`**.
 1. **Open `00-START-HERE.ipynb`** (double-click).
-1. Follow the instructions in the Notebook.
+1. **Follow the instructions** in the Notebook.
 
 This configuration is valid for 8 hours.
 If you need to refresh your access later, please re-do these steps.
