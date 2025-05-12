@@ -15,7 +15,7 @@ title: "💪 Exercise"
     * It may take a moment for the server to start.
       When it's done, **place a 🟩 green sticky on the corner of your laptop screen**
       so instructors know you're ready!
-    * If startup takes longer than a couple of minutes, put up a **🟥 red sticky** and we'll
+    * If startup takes longer than a couple of minutes, **put up a 🟥 red sticky** and we'll
       take a look!
 
 
