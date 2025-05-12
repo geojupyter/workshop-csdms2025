@@ -60,17 +60,12 @@ complete solution over time.
 We'll explore some of the latest examples of this progress soon.
 
 
-## Step 3: Open our example Notebook
+## Step 3: Read our example Notebook
 
 1. **Open `example-1.ipynb`** by double-clicking it in the file browser in the left panel.
 1. This notebook is pre-populated with some code.
-   **Run most of the cells** by pressing `SHIFT+ENTER` repeatedly until you reach the
-   challenge cells at the end.
-
-
-## Step 4: Create some new data
-
-1. **Fill in the final cells of the Notebook to add more data to the GeoDataFrame.**
+   As you read, **run the cells** by pressing `SHIFT+ENTER`.
+1. **Fill in the final "Challenge" cells of the Notebook to add more data to the GeoDataFrame.**
    Start with a location that is meaningful to you:
    Your favorite coffee shop?
    The shelter where you adopted your pet?
@@ -78,9 +73,9 @@ We'll explore some of the latest examples of this progress soon.
 1. Run the final cells.
 
 
-## Step 5: Push our work to GitHub
+## Step 4: Push our work to GitHub
 
-### Step 5a: Set up authentication
+### Step 4a: Set up authentication
 
 In order to push changes from the JupyterHub, you need credentials.
 Since the JupyterHub is a shared cloud service, saving credentials there can be
@@ -108,7 +103,7 @@ This configuration is valid for 8 hours.
 If you need to refresh your access later, please re-do these steps.
 
 
-### Step 5b: Push!
+### Step 4b: Push!
 
 1. **Run the following commands in the terminal**:
 
