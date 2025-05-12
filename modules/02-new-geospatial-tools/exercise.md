@@ -50,3 +50,8 @@ The Notebook contains everything you need to complete step 2 of this exercise.
 git commit --all --message="Complete module 2"
 git push origin main
 ```
+
+
+## Done!
+
+Put up a **🟩 green sticky** to let us know you've completed the exercise.

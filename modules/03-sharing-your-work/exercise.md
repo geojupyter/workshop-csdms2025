@@ -75,3 +75,8 @@ It may take a minute or two; don't forget, you can view the progress in the "Act
 tab of your repository.
 
 Check the example notebook rendered correctly on the website.
+
+
+## Done!
+
+Put up a **🟩 green sticky** to let us know you've completed the exercise.
