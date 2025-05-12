@@ -14,7 +14,7 @@ project:
     - pattern: "0*.md"
     - title: "Modules"
       children:
-        - title: "Module 1: Collaborating in JupyterHub"
+        - title: "Module 1: Working in JupyterHub"
           children:
             - pattern: "modules/01*/*.md"
         - title: "Module 2: New Geospatial tools"
