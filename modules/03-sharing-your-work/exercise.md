@@ -64,7 +64,7 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 ### Step 5: Save to GitHub
 
 ```bash
-git commit --all --message="Display data in notebook"
+git commit --all --message="Complete module 3"
 git push origin main
 ```
 
