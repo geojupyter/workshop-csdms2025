@@ -98,8 +98,7 @@ We'll explore some of the latest examples of this progress soon.
 1. **Run the following commands in the terminal**:
 
     ```bash
-    git add .
-    git commit --message="Add new data to GeoJSON"`
+    git commit --all --message="Add new GeoJSON data"`
     ```
 
     :::{warning} This step may fail!

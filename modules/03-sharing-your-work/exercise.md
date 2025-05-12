@@ -23,8 +23,7 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 1. **Commit and push**:
 
     ```bash
-    git add .
-    git commit --message="Edit to trigger GitHub Pages deployment"
+    git commit --all --message="Edit to trigger GitHub Pages deployment"
     git push origin main
     ```
 
@@ -65,8 +64,7 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 ### Step 5: Save to GitHub
 
 ```bash
-git add .
-git commit --message="Display data in notebook"
+git commit --all --message="Display data in notebook"
 git push origin main
 ```
 
