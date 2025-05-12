@@ -102,7 +102,9 @@ We'll explore some of the latest examples of this progress soon.
     git commit --message="Add new data to GeoJSON"`
     ```
 
-    :::{warning} This step will probably fail!
+    :::{warning} This step may fail!
+    If you didn't complete the instructions in step 0c correctly, this command will
+    fail.
     If it does, you need to tell Git your name and e-mail, then try again.
     **Git will print out the commands you need to execute to fix this problem**.
     :::
