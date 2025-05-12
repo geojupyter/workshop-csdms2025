@@ -49,8 +49,8 @@ title: "💪 Exercise"
    left panel.
     * If the left panel isn't open, click the topmost icon in the far left column.
 1. **Navigate to the `exercises/module-1` directory**.
-1. **Double-click the GeoJSON file `seec.json`** to view it with the JupyterLab viewer.
-1. **Right-click the same GeoJSON file `seec.json`, and select "JSON"** to view the raw
+1. **Double-click the GeoJSON file `seec.geojson`** to view it with the JupyterLab viewer.
+1. **Right-click the same GeoJSON file `seec.geojson`, and select "JSON"** to view the raw
    contents of the file in a structured way.
 
 JupyterLab is about much more than Notebooks!

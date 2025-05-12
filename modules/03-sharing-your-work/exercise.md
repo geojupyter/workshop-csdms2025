@@ -56,7 +56,7 @@ When you build your own MyST website, you can reproduce this with `myst init --s
    **Add the following code to the 2nd to last line, before `m`**:
 
    ```python
-   folium.GeoJson("seec_and_nsidc.json").add_to(m)
+   folium.GeoJson("seec_and_nsidc.geojson").add_to(m)
    ```
 
 1. **Save your notebook**.
