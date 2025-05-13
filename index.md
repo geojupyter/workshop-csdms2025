@@ -24,3 +24,9 @@ like this one on your own!
 If you were unable to attend the workshop in-person, or if you didn't complete the
 workshop activities in the limited in-person timeframe, you can use this website to
 continue learning.
+
+
+## Take home your own website
+
+Our final module will include publishing your own website, using GitHub as the storage
+platform.
