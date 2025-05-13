@@ -8,7 +8,8 @@ title: "💪 Exercise"
 
 1. **Visit <https://hub.cryointhecloud.com>**.
    You may want to bookmark this page!
-1. **Select the last option, "Bring your own image"**.
+1. Click "Log in to Continue". This will log in with your GitHub account.
+1. On the "Server Options" page, **select the last option, "Bring your own image"**.
     * Copy/paste `ghcr.io/geojupyter/geojupyter:latest` into the "custom image" field.
     * Leave "Resource Allocation" as default (1.9GB RAM).
 1. **Click "Start"**!
