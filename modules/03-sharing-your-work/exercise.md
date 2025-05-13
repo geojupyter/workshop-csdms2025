@@ -20,6 +20,9 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 
 1. **Edit `index.md`** in `examples/module-3/my-website`.
    Add any content you like!
+   Consider adding a [figure](https://mystmd.org/guide/figures), [equation](https://mystmd.org/guide/math),
+   [aside](https://mystmd.org/guide/asides) or another element from the
+   [MyST documentation](https://mystmd.org/guide) (see the "Authoring" section in the sidebar).
 1. **Commit and push**:
 
     ```bash
