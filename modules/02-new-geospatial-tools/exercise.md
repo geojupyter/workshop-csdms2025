@@ -55,3 +55,5 @@ git push origin main
 ## Done!
 
 Put up a **🟩 green sticky** to let us know you've completed the exercise.
+
+⭐ If you have time left, please check out our bonus example tutorial in `examples/bonus/`!
