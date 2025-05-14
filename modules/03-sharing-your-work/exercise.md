@@ -44,7 +44,7 @@ When you build your own MyST website, you can reproduce this with `myst init --s
 😉):
 
     ```
-    https://MY-USERNAME.github.io/workshop-csdms2025-examples
+    https://MY-USERNAME.github.io/workshop-csdms2025-exercises
     ```
 
 1. **View the page titled "I am an example notebook"**.
