@@ -100,6 +100,13 @@ If you need to refresh your access later, please re-do these steps.
     ```bash
     git push --set-upstream origin main
     ```
+    :::{warning} If you are prompted for a username and password, something is wrong!
+    If you didn't complete the instructions in step 0c correctly, this command will
+    prompt for a username and password.
+
+    Please revisit step 0c carefully. Ask for help if you need it!
+    :::
+
 
 You can now visit your repository to verify that it's been updated.
 Looking at the time labels is the fastest way to confirm this.
