@@ -18,6 +18,16 @@ in earth and the environment.
 
 ## [Tasha Snow](https://tsnow03.github.io/)
 
+I am a Research Scientist at NASA Goddard Space Flight Center and the University of
+Maryland, and I am the co-founder of CryoCloud.
+
+My research focuses on glacier and ocean interactions in Greenland and Antarctica using
+satellite data. I also specialize in open-source science and machine learning.
+
+In my free time I climb and do all of the outdoor sports, play board games, and try to
+find the best food in town.
+
+
 ## [Matt Fisher](https://mfisher87.github.io)
 
 👋 I am a Community Manager and Research Software Engineer at
