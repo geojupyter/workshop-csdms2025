@@ -4,6 +4,18 @@ title: "Instructors"
 
 ## [Fernando Pérez](https://fernandoperez.org/)
 
+👋 I am faculty at UC Berkeley Statistics and Data Science, and a scientist at
+LBNL.
+I direct the Berkeley Institute for Data Science (BIDS) and co-direct the Eric and Wendy
+Schmidt Data Science & Environment Center (DSE).
+I co-founded 2i2c.org and NumFOCUS.
+
+Trained in physics, I build open source tools for science and education, having
+created IPython and co-founded Project Jupyter.
+My research focuses on open, reproducible science and scientific uses of AI for problems
+in earth and the environment.
+
+
 ## [Tasha Snow](https://tsnow03.github.io/)
 
 ## [Matt Fisher](https://mfisher87.github.io)
