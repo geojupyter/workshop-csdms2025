@@ -67,21 +67,7 @@ This configuration is valid for 8 hours.
 If you need to refresh your access later, please re-do these steps.
 
 
-## Step 1: Explore some example data
-
-1. **Navigate to the `exercises/module-1` directory** in the JupyterLab file browser.
-1. **Double-click the GeoJSON file `seec.geojson`** to view it with the JupyterLab viewer.
-1. **Right-click the same GeoJSON file `seec.geojson`, and select "JSON"** to view the raw
-   contents of the file in a structured way.
-
-JupyterLab is about much more than Notebooks!
-It's built to be an interactive computational tool that helps us think about problems.
-As the Jupyter community grows, so do JupyterLab's capabilities, and it becomes a more
-complete solution over time.
-We'll explore some of the latest examples of this progress soon.
-
-
-## Step 2: Read our example Notebook
+## Step 1: Read our example Notebook
 
 1. **Open `example-1.ipynb`** by double-clicking it in the file browser in the left panel.
 1. This notebook is pre-populated with some code.
@@ -94,7 +80,7 @@ We'll explore some of the latest examples of this progress soon.
 1. Run the final cells.
 
 
-## Step 3: Save our work to GitHub
+## Step 2: Save our work to GitHub
 
 1. **Run the following commands in the terminal**:
 
