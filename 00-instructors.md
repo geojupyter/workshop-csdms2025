@@ -18,7 +18,7 @@ in earth and the environment.
 
 ## [Tasha Snow](https://tsnow03.github.io/)
 
-I am a Research Scientist at NASA Goddard Space Flight Center and the University of
+👋 I am a Research Scientist at NASA Goddard Space Flight Center and the University of
 Maryland, and I am the co-founder of CryoCloud.
 
 My research focuses on glacier and ocean interactions in Greenland and Antarctica using
