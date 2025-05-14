@@ -82,7 +82,7 @@ If you need to refresh your access later, please re-do these steps.
 
 ## Step 2: Save our work to GitHub
 
-1. **Run the following commands in the terminal**:
+1. **Run the following command in the terminal**:
 
     ```bash
     git commit --all --message="Complete module 1"
