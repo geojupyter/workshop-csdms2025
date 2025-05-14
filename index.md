@@ -6,6 +6,8 @@ title: "GeoJupyter Workshop: CSDMS Annual Meeting 2025"
 [Community Surface Dynamics Modeling System (CSDMS) 2025 Annual Meeting](https://csdms.colorado.edu/wiki/Form:Annualmeeting2025)!
 
 
+Zoom Link to join live: https://bit.ly/csdms25-jupyter
+
 ## This workshop is open-source
 
 Click the "View source" button in the top-right to check it out!
